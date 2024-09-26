@@ -10,6 +10,10 @@ README.js
 
 yarn install
 
+# Install shadcn components
+
+Navigate to the `web-renderer` directory and run the following command: `npx shadcn@latest add shadcn-components-name`
+
 # Start service
 
 yarn start
